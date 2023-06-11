@@ -8,5 +8,8 @@ canges from b2
 
 changes b3
 b3 b3 b3
+<<<<<<< HEAD
 
 b4 b4 b4
+=======
+>>>>>>> b3
